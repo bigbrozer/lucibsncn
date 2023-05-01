@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Luci Bsncn</title>
+    <link href="https://bigbrozer.github.io/lucibsncn/feed.xml" rel="self" />
+    <link href="https://bigbrozer.github.io/lucibsncn" />
+    <updated>2023-05-01T12:06:29+02:00</updated>
+    <author>
+        <name>Luci Bsncn</name>
+    </author>
+    <id>https://bigbrozer.github.io/lucibsncn</id>
+
+    <entry>
+        <title>Jun</title>
+        <author>
+            <name>Luci Bsncn</name>
+        </author>
+        <link href="https://bigbrozer.github.io/lucibsncn/jun/"/>
+        <id>https://bigbrozer.github.io/lucibsncn/jun/</id>
+        <media:content url="https://bigbrozer.github.io/lucibsncn/media/posts/6/Jun-2.jpg" medium="image" />
+
+        <updated>2023-05-01T12:06:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bigbrozer.github.io/lucibsncn/media/posts/6/Jun-2.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper varius ipsum viverra aliquam. Quisque non tellus a dui pulvinar mollis at ut nulla. Vivamus dolor sem, posuere eget egestas.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper varius ipsum viverra aliquam. Quisque non&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bigbrozer.github.io/lucibsncn/media/posts/6/Jun-2.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper varius ipsum viverra aliquam. Quisque non tellus a dui pulvinar mollis at ut nulla. Vivamus dolor sem, posuere eget egestas.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper varius ipsum viverra aliquam. Quisque non tellus a dui pulvinar mollis at ut nulla. Vivamus dolor sem, posuere eget egestas.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://bigbrozer.github.io/lucibsncn/media/posts/6/Jun.jpg" height="4134" width="4134" alt=""  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://bigbrozer.github.io/lucibsncn/media/posts/6/responsive/Jun-xs.jpg 300w ,https://bigbrozer.github.io/lucibsncn/media/posts/6/responsive/Jun-sm.jpg 480w ,https://bigbrozer.github.io/lucibsncn/media/posts/6/responsive/Jun-md.jpg 749w ,https://bigbrozer.github.io/lucibsncn/media/posts/6/responsive/Jun-xl.jpg 1200w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Eva</title>
+        <author>
+            <name>Luci Bsncn</name>
+        </author>
+        <link href="https://bigbrozer.github.io/lucibsncn/eva/"/>
+        <id>https://bigbrozer.github.io/lucibsncn/eva/</id>
+        <media:content url="https://bigbrozer.github.io/lucibsncn/media/posts/5/portfolio-003-2.jpg" medium="image" />
+
+        <updated>2023-05-01T12:06:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bigbrozer.github.io/lucibsncn/media/posts/5/portfolio-003-2.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper varius ipsum viverra aliquam. Quisque non tellus a dui pulvinar mollis at ut nulla. Vivamus dolor sem, posuere eget egestas.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bigbrozer.github.io/lucibsncn/media/posts/5/portfolio-003-2.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper varius ipsum viverra aliquam. Quisque non tellus a dui pulvinar mollis at ut nulla. Vivamus dolor sem, posuere eget egestas.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://bigbrozer.github.io/lucibsncn/media/posts/5/portfolio-003.jpg" height="4134" width="4134" alt=""  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://bigbrozer.github.io/lucibsncn/media/posts/5/responsive/portfolio-003-xs.jpg 300w ,https://bigbrozer.github.io/lucibsncn/media/posts/5/responsive/portfolio-003-sm.jpg 480w ,https://bigbrozer.github.io/lucibsncn/media/posts/5/responsive/portfolio-003-md.jpg 749w ,https://bigbrozer.github.io/lucibsncn/media/posts/5/responsive/portfolio-003-xl.jpg 1200w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Broken Ones</title>
+        <author>
+            <name>Luci Bsncn</name>
+        </author>
+        <link href="https://bigbrozer.github.io/lucibsncn/broken-ones/"/>
+        <id>https://bigbrozer.github.io/lucibsncn/broken-ones/</id>
+        <media:content url="https://bigbrozer.github.io/lucibsncn/media/posts/4/portfolio-001.jpg" medium="image" />
+
+        <updated>2023-05-01T12:06:29+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bigbrozer.github.io/lucibsncn/media/posts/4/portfolio-001.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper varius ipsum viverra aliquam. Quisque non tellus a dui pulvinar mollis at ut nulla. Vivamus dolor sem, posuere eget egestas.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bigbrozer.github.io/lucibsncn/media/posts/4/portfolio-001.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris semper varius ipsum viverra aliquam. Quisque non tellus a dui pulvinar mollis at ut nulla. Vivamus dolor sem, posuere eget egestas.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://bigbrozer.github.io/lucibsncn/media/posts/4/portfolio-001-3.jpg" height="3091" width="3753" alt=""  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://bigbrozer.github.io/lucibsncn/media/posts/4/responsive/portfolio-001-3-xs.jpg 300w ,https://bigbrozer.github.io/lucibsncn/media/posts/4/responsive/portfolio-001-3-sm.jpg 480w ,https://bigbrozer.github.io/lucibsncn/media/posts/4/responsive/portfolio-001-3-md.jpg 749w ,https://bigbrozer.github.io/lucibsncn/media/posts/4/responsive/portfolio-001-3-xl.jpg 1200w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
