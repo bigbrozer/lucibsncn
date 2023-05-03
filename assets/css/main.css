@@ -38,7 +38,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 3 */
-  background: #212529;
+  background: #000000;
   color: rgba(0, 255, 53, 0.85);
 }
 
@@ -425,7 +425,7 @@ pre {
   padding: 10px;
   border: 1px solid #e5e5e5;
   border-radius: 3px;
-  background: #212529;
+  background: #000000;
 }
 
 pre code {
@@ -1453,7 +1453,7 @@ button.uk-icon:not(:disabled) {
   height: 15px;
   width: 15px;
   border-radius: 500px;
-  background: #212529;
+  background: #000000;
   border: 1px solid #cccccc;
 }
 
@@ -1466,7 +1466,7 @@ button.uk-icon:not(:disabled) {
   width: 15px;
   margin-top: -7px;
   border-radius: 500px;
-  background: #212529;
+  background: #000000;
   border: 1px solid #cccccc;
 }
 
@@ -1602,7 +1602,7 @@ button.uk-icon:not(:disabled) {
   border: 0 none;
   /* 4 */
   padding: 0 10px;
-  background: #212529;
+  background: #000000;
   color: rgba(0, 255, 53, 0.85);
   border: 1px solid #e5e5e5;
   transition: 0.2s ease-in-out;
@@ -1650,7 +1650,7 @@ button.uk-icon:not(:disabled) {
 .uk-select:focus,
 .uk-textarea:focus {
   outline: none;
-  background-color: #212529;
+  background-color: #000000;
   color: rgba(0, 255, 53, 0.85);
   border-color: #1e87f0;
 }
@@ -2538,7 +2538,7 @@ select.uk-form-width-xsmall {
  * Default
  */
 .uk-section-default {
-  background: #212529;
+  background: #000000;
 }
 
 /*
@@ -2819,7 +2819,7 @@ select.uk-form-width-xsmall {
  * Default
  */
 .uk-tile-default {
-  background-color: #212529;
+  background-color: #000000;
 }
 
 /*
@@ -2943,7 +2943,7 @@ select.uk-form-width-xsmall {
 /* Hover modifier
  ========================================================================== */
 .uk-card-hover:not(.uk-card-default):not(.uk-card-primary):not(.uk-card-secondary):hover {
-  background-color: #212529;
+  background-color: #000000;
   box-shadow: 0 14px 25px rgba(0, 0, 0, 0.16);
 }
 
@@ -2954,7 +2954,7 @@ select.uk-form-width-xsmall {
  * Note: Header and Footer are only implemented for the default style
  */
 .uk-card-default {
-  background-color: #212529;
+  background-color: #000000;
   color: rgba(0, 255, 53, 0.85);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
 }
@@ -2964,7 +2964,7 @@ select.uk-form-width-xsmall {
 }
 
 .uk-card-default.uk-card-hover:hover {
-  background-color: #212529;
+  background-color: #000000;
   box-shadow: 0 14px 25px rgba(0, 0, 0, 0.16);
 }
 
@@ -3460,7 +3460,7 @@ select.uk-form-width-xsmall {
  * Default
  */
 .uk-overlay-default {
-  background: rgba(33, 37, 41, 0.8);
+  background: rgba(0, 0, 0, 0.8);
 }
 
 /*
@@ -3942,7 +3942,7 @@ select.uk-form-width-xsmall {
   /* 3 */
   box-sizing: border-box;
   padding: 25px 15px 25px 15px;
-  background: #212529;
+  background: #000000;
   color: rgba(0, 255, 53, 0.85);
 }
 
@@ -4077,7 +4077,7 @@ select.uk-form-width-xsmall {
   /* 3 */
   max-width: 100% !important;
   /* 4 */
-  background: #212529;
+  background: #000000;
   /* 5 */
   opacity: 0;
   transform: translateY(-100px);
@@ -4132,14 +4132,14 @@ select.uk-form-width-xsmall {
 .uk-modal-header {
   display: flow-root;
   padding: 10px 20px;
-  background: #212529;
+  background: #000000;
   border-bottom: 1px solid #e5e5e5;
 }
 
 .uk-modal-footer {
   display: flow-root;
   padding: 10px 20px;
-  background: #212529;
+  background: #000000;
   border-top: 1px solid #e5e5e5;
 }
 
@@ -4226,7 +4226,7 @@ select.uk-form-width-xsmall {
   top: 0;
   right: 0;
   padding: 10px;
-  background: #212529;
+  background: #000000;
 }
 
 /* Tablet landscape and bigger */
@@ -5990,7 +5990,7 @@ ul.uk-nav-sub {
   width: 200px;
   /* 4 */
   padding: 25px;
-  background: #212529;
+  background: #000000;
   color: rgba(0, 255, 53, 0.85);
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
 }
@@ -6926,7 +6926,7 @@ ul.uk-nav-sub {
   min-width: 200px;
   /* 4 */
   padding: 25px;
-  background: #212529;
+  background: #000000;
   color: rgba(0, 255, 53, 0.85);
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15);
 }
@@ -8558,7 +8558,7 @@ iframe[data-uk-cover] {
 /* Color
  ========================================================================== */
 .uk-background-default {
-  background-color: #212529;
+  background-color: #000000;
 }
 
 .uk-background-muted {
