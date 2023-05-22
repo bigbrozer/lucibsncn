@@ -2,33 +2,34 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Luci Bsncn",
     "description": "",
-    "home_page_url": "https://bigbrozer.github.io/lucibsncn",
-    "feed_url": "https://bigbrozer.github.io/lucibsncn/feed.json",
+    "home_page_url": "https://me.labrume.art",
+    "feed_url": "https://me.labrume.art/feed.json",
     "user_comment": "",
     "author": {
         "name": "Luci Bsncn"
     },
     "items": [
         {
-            "id": "https://bigbrozer.github.io/lucibsncn/a-very-interesting-article/",
-            "url": "https://bigbrozer.github.io/lucibsncn/a-very-interesting-article/",
+            "id": "https://me.labrume.art/a-very-interesting-article/",
+            "url": "https://me.labrume.art/a-very-interesting-article/",
             "title": "A very interesting article...",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit aliquet sagittis id consectetur purus ut. Odio euismod lacinia at quis risus sed vulputate odio. Massa vitae tortor condimentum lacinia quis. Lacus vestibulum sed arcu&hellip;",
-            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit aliquet sagittis id consectetur purus ut. Odio euismod lacinia at quis risus sed vulputate odio. Massa vitae tortor condimentum lacinia quis. Lacus vestibulum sed arcu non odio euismod lacinia at. Enim ut tellus elementum sagittis vitae. Nisi quis eleifend quam adipiscing vitae proin sagittis. Iaculis at erat pellentesque adipiscing commodo. Tincidunt praesent semper feugiat nibh. Orci eu lobortis elementum nibh. Sit amet volutpat consequat mauris nunc congue nisi. Leo integer malesuada nunc vel risus commodo viverra maecenas accumsan. Duis convallis convallis tellus id interdum velit laoreet. Congue nisi vitae suscipit tellus mauris a diam maecenas. Non enim praesent elementum facilisis leo vel fringilla. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula.<br><br>Consectetur lorem donec massa sapien faucibus et. Sit amet mattis vulputate enim nulla aliquet. Aliquam ultrices sagittis orci a. Turpis egestas integer eget aliquet nibh praesent tristique magna sit. Vulputate odio ut enim blandit volutpat maecenas. Rhoncus est pellentesque elit ullamcorper. Volutpat odio facilisis mauris sit amet. Lectus nulla at volutpat diam ut venenatis tellus in. Bibendum arcu vitae elementum curabitur vitae nunc sed velit. Amet dictum sit amet justo donec enim diam. Gravida neque convallis a cras semper auctor neque. Ac turpis egestas sed tempus urna et pharetra pharetra. Habitasse platea dictumst quisque sagittis purus. Egestas erat imperdiet sed euismod. Dictum at tempor commodo ullamcorper a lacus vestibulum sed. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Nisi est sit amet facilisis magna etiam tempor. Nullam vehicula ipsum a arcu.\n  </p>",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Velit aliquet sagittis id consectetur purus ut. Odio euismod lacinia at quis risus sed vulputate odio. Massa vitae tortor condimentum lacinia quis. Lacus vestibulum sed arcu non odio euismod lacinia at. Enim ut tellus elementum sagittis vitae. Nisi quis eleifend quam adipiscing vitae proin sagittis. Iaculis at erat pellentesque adipiscing commodo. Tincidunt praesent semper feugiat nibh. Orci eu lobortis elementum nibh. Sit amet volutpat consequat mauris nunc congue nisi. Leo integer malesuada nunc vel risus commodo viverra maecenas accumsan. Duis convallis convallis tellus id interdum velit laoreet. Congue nisi vitae suscipit tellus mauris a diam maecenas. Non enim praesent elementum facilisis leo vel fringilla. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula.<br>\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://me.labrume.art/media/posts/11/portfolio-015_resized.jpg\" height=\"1080\" width=\"785\" alt=\"\"  sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://me.labrume.art/media/posts/11/responsive/portfolio-015_resized-xs.webp 300w ,https://me.labrume.art/media/posts/11/responsive/portfolio-015_resized-sm.webp 480w ,https://me.labrume.art/media/posts/11/responsive/portfolio-015_resized-md.webp 768w ,https://me.labrume.art/media/posts/11/responsive/portfolio-015_resized-xl.webp 1200w\">\n      \n    </figure>\n\n  <p>\n    Consectetur lorem donec massa sapien faucibus et. Sit amet mattis vulputate enim nulla aliquet. Aliquam ultrices sagittis orci a. Turpis egestas integer eget aliquet nibh praesent tristique magna sit. Vulputate odio ut enim blandit volutpat maecenas. Rhoncus est pellentesque elit ullamcorper. Volutpat odio facilisis mauris sit amet. Lectus nulla at volutpat diam ut venenatis tellus in. Bibendum arcu vitae elementum curabitur vitae nunc sed velit. Amet dictum sit amet justo donec enim diam. Gravida neque convallis a cras semper auctor neque. Ac turpis egestas sed tempus urna et pharetra pharetra. Habitasse platea dictumst quisque sagittis purus. Egestas erat imperdiet sed euismod. Dictum at tempor commodo ullamcorper a lacus vestibulum sed. Ut enim blandit volutpat maecenas volutpat blandit aliquam. Nisi est sit amet facilisis magna etiam tempor. Nullam vehicula ipsum a arcu.\n  </p>\n\n  <p class=\"uk-text-lead\">\n    This is a text lead !\n  </p>",
             "author": {
                 "name": "Luci Bsncn"
             },
             "tags": [
+                   "Slice of life"
             ],
             "date_published": "2023-05-03T23:20:29+02:00",
-            "date_modified": "2023-05-03T23:20:29+02:00"
+            "date_modified": "2023-05-13T19:16:37+02:00"
         },
         {
-            "id": "https://bigbrozer.github.io/lucibsncn/jun/",
-            "url": "https://bigbrozer.github.io/lucibsncn/jun/",
+            "id": "https://me.labrume.art/jun/",
+            "url": "https://me.labrume.art/jun/",
             "title": "Jun",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://bigbrozer.github.io/lucibsncn/media/posts/6/portfolio-006_resized.jpg",
+            "image": "https://me.labrume.art/media/posts/6/portfolio-006_resized.jpg",
             "author": {
                 "name": "Luci Bsncn"
             },
@@ -38,11 +39,11 @@
             "date_modified": "2023-05-03T23:03:17+02:00"
         },
         {
-            "id": "https://bigbrozer.github.io/lucibsncn/eva/",
-            "url": "https://bigbrozer.github.io/lucibsncn/eva/",
+            "id": "https://me.labrume.art/eva/",
+            "url": "https://me.labrume.art/eva/",
             "title": "Eva",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://bigbrozer.github.io/lucibsncn/media/posts/5/portfolio-003_resized.jpg",
+            "image": "https://me.labrume.art/media/posts/5/portfolio-003_resized.jpg",
             "author": {
                 "name": "Luci Bsncn"
             },
@@ -52,11 +53,11 @@
             "date_modified": "2023-05-03T23:19:35+02:00"
         },
         {
-            "id": "https://bigbrozer.github.io/lucibsncn/broken-ones/",
-            "url": "https://bigbrozer.github.io/lucibsncn/broken-ones/",
+            "id": "https://me.labrume.art/broken-ones/",
+            "url": "https://me.labrume.art/broken-ones/",
             "title": "Broken Ones",
             "content_html": "\n  <p>\n    \n  </p>",
-            "image": "https://bigbrozer.github.io/lucibsncn/media/posts/4/portfolio-001_resized.jpg",
+            "image": "https://me.labrume.art/media/posts/4/portfolio-001_resized.jpg",
             "author": {
                 "name": "Luci Bsncn"
             },
