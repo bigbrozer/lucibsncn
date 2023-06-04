@@ -11661,4 +11661,39 @@ footer {
   background-color: #000;
 }
 
+/* IMAGES */
+[class*=post__image] > img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 30px;
+  width: auto;
+  height: 250px;
+}
+
+/* Phone landscape and bigger */
+@media (min-width: 640px) {
+  [class*=post__image] > img {
+    height: 350px;
+  }
+}
+/* Tablet landscape and bigger */
+@media (min-width: 960px) {
+  [class*=post__image] > img {
+    height: 450px;
+  }
+}
+/* Desktop and bigger */
+@media (min-width: 1200px) {
+  [class*=post__image] > img {
+    height: 550px;
+  }
+}
+/* Large screen and bigger */
+@media (min-width: 1600px) {
+  [class*=post__image] > img {
+    height: 650px;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
