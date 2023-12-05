@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Luci Bsncn</title>
+    <title>La Brume</title>
     <link href="https://me.labrume.art/feed.xml" rel="self" />
     <link href="https://me.labrume.art" />
     <updated>2023-12-05T22:08:57+01:00</updated>
     <author>
-        <name>Luci Bsncn</name>
+        <name>La Brume</name>
     </author>
     <id>https://me.labrume.art</id>
 
     <entry>
         <title>Commandes ouvertes</title>
         <author>
-            <name>Luci Bsncn</name>
+            <name>La Brume</name>
         </author>
         <link href="https://me.labrume.art/commandes-ouvertes/"/>
         <id>https://me.labrume.art/commandes-ouvertes/</id>
@@ -49,7 +49,7 @@
     <entry>
         <title>Site en construction...</title>
         <author>
-            <name>Luci Bsncn</name>
+            <name>La Brume</name>
         </author>
         <link href="https://me.labrume.art/a-very-interesting-article/"/>
         <id>https://me.labrume.art/a-very-interesting-article/</id>
