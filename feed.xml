@@ -3,7 +3,7 @@
     <title>La Brume</title>
     <link href="https://me.labrume.art/feed.xml" rel="self" />
     <link href="https://me.labrume.art" />
-    <updated>2024-01-04T19:17:39+01:00</updated>
+    <updated>2024-01-13T17:12:39+01:00</updated>
     <author>
         <name>La Brume</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://me.labrume.art/bonne-annee-2024/"/>
         <id>https://me.labrume.art/bonne-annee-2024/</id>
+            <category term="Slice of life"/>
 
-        <updated>2024-01-04T19:17:39+01:00</updated>
+        <updated>2024-01-13T17:12:39+01:00</updated>
             <summary>
                 <![CDATA[
                     Ça y est, une nouvelle année commence. 2024 arrive avec son lot de projets et d’événements. Pour ma part, 2024 risque d’être une année placée sous le signe du renouveau et (je l’espère) des projets devrait voir le jours en fin d’année. Je commence à&hellip;
