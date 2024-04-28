@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://me.labrume.art/marche-dillustration-4-mai/",
+            "url": "https://me.labrume.art/marche-dillustration-4-mai/",
+            "title": "Marché d&#x27;illustration - 4 mai",
+            "summary": "J'aurai le plaisir de participer au marché d'illustration des Passagères le 4 mai prochain à la Grange de Beorn à Besançon (16 rue des Tamaris). Mon petit doigts me dit qu'il y aura des nouveautés... Hâte de vous y voir et de découvrir ce lieux&hellip;",
+            "content_html": "<p>J'aurai le plaisir de participer au marché d'illustration des Passagères le 4 mai prochain à la Grange de Beorn à Besançon (16 rue des Tamaris). Mon petit doigts me dit qu'il y aura des nouveautés... Hâte de vous y voir et de découvrir ce lieux ! </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://me.labrume.art/media/posts/32/Postinsta1.png\" alt=\"\" width=\"1080\" height=\"1350\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://me.labrume.art/media/posts/32/responsive/Postinsta1-xs.webp 300w ,https://me.labrume.art/media/posts/32/responsive/Postinsta1-sm.webp 480w ,https://me.labrume.art/media/posts/32/responsive/Postinsta1-md.webp 768w ,https://me.labrume.art/media/posts/32/responsive/Postinsta1-xl.webp 1200w\"></figure>",
+            "author": {
+                "name": "La Brume"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-28T18:38:30+02:00",
+            "date_modified": "2024-04-28T18:38:41+02:00"
+        },
+        {
             "id": "https://me.labrume.art/bonne-annee-2024/",
             "url": "https://me.labrume.art/bonne-annee-2024/",
             "title": "Bonne année 2024",
@@ -22,7 +36,7 @@
                    "Slice of life"
             ],
             "date_published": "2024-01-04T19:17:39+01:00",
-            "date_modified": "2024-01-13T17:12:39+01:00"
+            "date_modified": "2024-04-28T18:33:40+02:00"
         },
         {
             "id": "https://me.labrume.art/commandes-ouvertes/",
